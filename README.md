@@ -48,8 +48,15 @@ I believe in writing **clean, readable, and scalable code** and continuously imp
 > More projects coming soon as I continue learning and building 🚧
 ---
 ## 📊 GitHub Stats
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-vivek-dev&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-vivek-dev&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=the-vivek-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-vivek-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 ## 📫 Contact
 - 📧 Email: **vivek.softwaredev@gmail.com**
