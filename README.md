@@ -33,14 +33,18 @@ I believe in writing **clean, readable, and scalable code** and continuously imp
 - Postman
 ---
 ## 📌 Projects
-### 🔹 QuizApp
-- Full-stack quiz application with clean UI and backend logic
-- **Tech:** MERN Stack  
-- **Repo:** https://github.com/the-vivek-dev/QuizApp
-### 🔹 Random Code Generator
-- Generates random code snippets for practice and learning
-- **Tech:** JavaScript  
-- **Repo:** https://github.com/the-vivek-dev/randomCodeGenerator
+### 🔹 react-stopwatch-implementations
+-A React stopwatch implemented in three different ways, demonstrating interval handling and state management using React Hooks.
+- **Tech:** React.js
+- **Repo:** https://github.com/the-vivek-dev/react-stopwatch-implementations
+### 🔹 react-clock-toggle 
+- A React digital clock with toggle functionality using useState, useEffect, and useRef to manage intervals safely.
+- **Tech:** React.js  
+- **Repo:** https://github.com/the-vivek-dev/react-clock-toggle
+### 🔹 clickerApp 
+- A lightweight interactive click animation app built with HTML, CSS, and JavaScript, featuring dynamic circle effects on user clicks and multi-language text support using Google Translate.
+- **Tech:** HTML, CSS, and JavaScript 
+- **Repo:** https://github.com/the-vivek-dev/clickerApp
 > More projects coming soon as I continue learning and building 🚧
 ---
 ## 📊 GitHub Stats
