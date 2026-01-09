@@ -47,24 +47,6 @@ I believe in writing **clean, readable, and scalable code** and continuously imp
 - **Repo:** https://github.com/the-vivek-dev/clickerApp
 > More projects coming soon as I continue learning and building 🚧
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=the-vivek-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="Vivek's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-vivek-dev&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-
----
 ## 📫 Contact
 - 📧 Email: **vivek.softwaredev@gmail.com**
 ---
