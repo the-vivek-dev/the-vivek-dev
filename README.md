@@ -34,7 +34,7 @@ I believe in writing **clean, readable, and scalable code** and continuously imp
 ---
 ## 📌 Projects
 ### 🔹 react-stopwatch-implementations
--A React stopwatch implemented in three different ways, demonstrating interval handling and state management using React Hooks.
+- A React stopwatch implemented in three different ways, demonstrating interval handling and state management using React Hooks.
 - **Tech:** React.js
 - **Repo:** https://github.com/the-vivek-dev/react-stopwatch-implementations
 ### 🔹 react-clock-toggle 
